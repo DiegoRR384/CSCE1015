@@ -5,3 +5,7 @@ dr0972
 ## dr0972
 ## ssh
 $ssh
+## EUID
+
+## Favorite Linux Command
+$ssh
